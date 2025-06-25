@@ -1,4 +1,4 @@
-### Cryptography-Wiki: An Educational Project to Make Cryptography Clear and Accessible for Everyone
+### Cryptonia: An Educational Project to Make Cryptography Clear and Accessible for Everyone
 
 This project is dedicated to helping everyday people better understand cryptography—what it is, how it works, and why it matters in the digital world. We present key concepts in a clear and accessible way, with practical examples and real-world relevance.
 
